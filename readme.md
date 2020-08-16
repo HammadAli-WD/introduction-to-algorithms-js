@@ -1,4 +1,4 @@
-# Introduction to algorightms with javascript
+# Introduction to algorithms with javascript
 
 
 [Time&Space Complexity](./1/readme.md)
@@ -14,3 +14,7 @@
 [Memoization & Closure](./6/readme.md)
 
 [Recursion](./7/readme.md)
+
+[Divide & Conquer ](./8/readme.md)
+
+[Sorting Types](./9/readme.md)

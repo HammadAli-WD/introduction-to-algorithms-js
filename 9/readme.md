@@ -6,7 +6,7 @@ We can categorize sorting algorithms with two groups.
 
 Keep looping and comparing values until list is sorted .They are quadratic time $O(n^2)$
 
-- Bubble Sort
+- [Bubble Sort](./bubble.md)
 
 - Insertion Sort
 

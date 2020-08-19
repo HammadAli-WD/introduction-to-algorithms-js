@@ -8,7 +8,7 @@ Keep looping and comparing values until list is sorted .They are quadratic time 
 
 - [Bubble Sort](./bubble.md)
 
-- Insertion Sort
+- [Insertion Sort](./insertion.md)
 
 - Selection Sort
 

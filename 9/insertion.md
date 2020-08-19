@@ -1,4 +1,4 @@
-# Insertion Sort Order
+# Insertion Sort
 
 Insertion sort is optimized version of bubble sort. If there is swap at some point it means there is no unsorted pairs before, thats why it starts from last swapped position.
 

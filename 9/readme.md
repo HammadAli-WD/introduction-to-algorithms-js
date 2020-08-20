@@ -22,4 +22,4 @@ They are logarithmic  time $O(nlogn)$
 
 - [Mergesort](./merge.md)
 
-- Quicksort 
+- [Quicksort](./quicksort.md)
